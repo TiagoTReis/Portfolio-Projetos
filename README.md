@@ -52,12 +52,12 @@ Além disso, também exerci papel de **Scrum Master** em projeto acadêmico, apo
 
 ## 📂 Meus Projetos
 
-- [1º Semestre: Calculadora Científica](./projetos/1-semestre/README.md)
-- [2º Semestre: Projeto Avaliador de Soft Skill](./projetos/2-semestre/README.md)
-- [3º Semestre: Projeto Sistema de Ponto e Geração de Relatórios](./projetos/3-semestre/README.md)
-- [4º Semestre: Projeto de Monitoramento e Resposta a Incidentes](./projetos/4-semestre/README.md)
-- [5º Semestre: TODO](./projetos/5-semestre/README.md)
-- [6º Semestre: TODO](./projetos/6-semestre/README.md)
+- [1º Semestre: Calculadora Científica](./projetos/1-semestre.md)
+- [2º Semestre: Projeto Avaliador de Soft Skill](./projetos/2-semestre.md)
+- [3º Semestre: Projeto Sistema de Ponto e Geração de Relatórios](./projetos/3-semestre.md)
+- [4º Semestre: Projeto de Monitoramento e Resposta a Incidentes](./projetos/4-semestre.md)
+- [5º Semestre: TODO](./projetos/5-semestre.md)
+- [6º Semestre: TODO](./projetos/6-semestre.md)
 
 ---
 
