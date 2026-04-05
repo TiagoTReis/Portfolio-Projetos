@@ -50,8 +50,6 @@ Além disso, também exerci papel de **Scrum Master** em projeto acadêmico, apo
 
 ---
 
-# 📂 Meus Projetos
-
 ## 📂 Meus Projetos
 
 - [1º Semestre: Calculadora Científica](./projetos/1-semestre/README.md)
