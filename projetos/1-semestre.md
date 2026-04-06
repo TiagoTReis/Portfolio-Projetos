@@ -97,17 +97,19 @@ Essa funcionalidade envolveu:
 - lógica de concatenação e exibição formatada do resultado;
 - integração da função ao menu principal da calculadora.
 
-### Trecho da implementação
+### 🛠️ Implementação do Código
 
-```typescript
-export function concatenacaoString(): void {
-  menu("Concantenação de String");
-  const str1: string = input("| ");
-  const str2: string = input("| ");
-  const strResult: string = str1 + str2;
-  // Exibição formatada do resultado
-}
-```
+A implementação a seguir detalha a arquitetura da função concatenacaoString(). O foco desta entrega foi garantir a integridade dos dados através de tipos estritos e consolidar uma lógica de interação robusta, servindo como base para a expansão do sistema
+
+<details>
+<summary><b>Clique aqui para ver a imagem</summary>
+<div align="center">
+  <img src="../assets/1-semestre/concatenacao-de-string.png" width="65%" alt="Diferencial do Git mostrando a implementação da função concatenacaoString">
+</div>
+
+*Visualização da estrutura da função com comentários explicativos, menus de terminal e lógica de concatenação.*
+</details>
+
 </details>
 <details>
 <summary><b>🛠 Refatoração de tipagem em 8 módulos do projeto</b></summary>
@@ -125,7 +127,18 @@ Realizei uma refatoração abrangente focada em **boas práticas de tipagem Type
 - `juros.ts` — Juros Simples e Compostos
 - `conversaoDeBase.ts` — Conversão de Bases Numéricas
 
+### 🛠️ Implementação do Código
 Essa refatoração garantiu maior **segurança de tipos** no projeto, reduzindo a possibilidade de erros em tempo de execução e melhorando a legibilidade do código para toda a equipe.
+
+<details>
+<summary><b>Clique aqui para ver a imagem</summary>
+<div align="center">
+  <img src="../assets/1-semestre/tipagem.png" width="80%" alt="Diferencial do Git mostrando a implementação da função concatenacaoString">
+</div>
+
+*Visualização do diff do Git, destacando a padronização e o aumento da integridade do código através da tipagem estática aplicada.*
+</details>
+
 
 </details>
 
@@ -143,14 +156,16 @@ Esse fluxograma foi criado com o objetivo de:
 - facilitar a compreensão da estrutura do programa pela equipe;
 - apoiar o desenvolvimento e a validação das funcionalidades implementadas.
 
+### 🛠️ Implementação do Código
 A construção desse material contribuiu para melhorar a **clareza da lógica do sistema**, além de servir como apoio no entendimento do comportamento geral da aplicação.
 
-### 🖼️ Fluxograma desenvolvido
+<details>
+<summary><b>Clique aqui para ver a imagem</summary>
+<div align="center">
+  <img src="../assets/1-semestre/Fluxograma.jpg" width="80%" alt="Fluxograma">
+</div>
 
-<p align="center">
-  <img src="../assets/projeto-1/imagens/fluxograma-calculadora.jpg" alt="Fluxograma da Calculadora Científica" width="900"/>
-</p>
-
+</details>
 </details>
 
 ## 📚 Aprendizados Efetivos
