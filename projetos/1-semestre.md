@@ -185,15 +185,14 @@ Além da parte técnica, esse projeto também fortaleceu minha vivência com **t
 
 ## 🧠 Hard Skills
 
-| Hard Skill | Como apliquei neste projeto |
-|:---|:---|
-| **Lógica de Programação** | Apliquei conceitos fundamentais de lógica na construção e entendimento do fluxo da calculadora, incluindo menus, entrada de dados, decisões e retorno de resultados. |
-| **TypeScript** | Utilizei TypeScript no desenvolvimento da calculadora, tanto na implementação da funcionalidade de concatenação de strings quanto na refatoração de tipagem em múltiplos módulos do sistema. |
-| **Tipagem Estática** | Trabalhei com definição explícita de tipos em funções e variáveis, melhorando a organização, segurança e legibilidade do código. |
-| **Git e GitHub** | Participei do versionamento do projeto e da organização do código em repositório compartilhado, compreendendo melhor o fluxo de colaboração em equipe. |
-| **Documentação Técnica** | Contribuí com a construção do fluxograma da aplicação, organizando visualmente o funcionamento da calculadora e apoiando o entendimento estrutural do sistema. |
-| **Metodologia Ágil (Scrum)** | Tive contato com a dinâmica de divisão de tarefas, acompanhamento de atividades e organização do desenvolvimento dentro do contexto acadêmico. |
+### 🧠 Hard Skills
 
+| Tecnologia/Metodologia | Nota | Classificação | O que me falta |
+| :--- | :--- | :--- | :--- |
+| **Metodologia Ágil Scrum** | ★★★☆☆ | Entendi | Aprofundar em papéis específicos (PO/Master) e cerimónias de refinamento. |
+| **VisualG** | ★★★☆☆ | Entendi | Explorar algoritmos de maior complexidade e estruturas de dados avançadas. |
+| **TypeScript** | ★★★☆☆ | Entendi | Dominar conceitos de Generics e integração profunda com frameworks externos. |
+| **Git** | ★★★★★ | Sei fazer com autonomia | Praticar fluxos complexos como Rebase, Stash e resolução de conflitos avançados. |
 ---
 
 ## 🤝 Soft Skills
