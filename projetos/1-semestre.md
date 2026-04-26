@@ -127,20 +127,22 @@ Realizei uma refatoração abrangente focada em **boas práticas de tipagem Type
 - `juros.ts` — Juros Simples e Compostos
 - `conversaoDeBase.ts` — Conversão de Bases Numéricas
 
+
 ### 🛠️ Implementação do Código
 Essa refatoração garantiu maior **segurança de tipos** no projeto, reduzindo a possibilidade de erros em tempo de execução e melhorando a legibilidade do código para toda a equipe.
 
 <details>
 <summary><b>Clique aqui para ver a imagem</summary>
 <div align="center">
-  <img src="../assets/1-semestre/tipagem.png" width="80%" alt="Diferencial do Git mostrando a implementação da função concatenacaoString">
+  <img src="../assets/1-semestre/tipagem.png" width="100%" alt="Diferencial do Git mostrando a implementação da função concatenacaoString">
+  *Visualização do diff do Git, destacando a padronização e o aumento da integridade do código através da tipagem estática aplicada.*
 </div>
+</details>
 
-*Visualização do diff do Git, destacando a padronização e o aumento da integridade do código através da tipagem estática aplicada.*
 </details>
 
 
-</details>
+
 
 <br>
 
