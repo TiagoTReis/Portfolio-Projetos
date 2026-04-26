@@ -65,44 +65,176 @@ Atuei com um papel híbrido e estratégico como **Scrum Master** e **Desenvolved
   Participei ativamente da concepção estrutural do projeto, garantindo que a base de dados fosse capaz de suportar as regras de negócio complexas de uma aplicação de gestão acadêmica.
   <br><br>
   As principais contribuições foram:
+  <br><br>
   <ul>
-    <li><b>Diagrama Entidade-Relacionamento (DER):</b> Auxiliei no processo de criação e refinamento do DER, assegurando a integridade referencial e a normalização dos dados entre as entidades de alunos, grupos, sprints e critérios de avaliação.</li>
-    <li><b>Documentação Visual:</b> Fui responsável pela atualização e manutenção dos artefatos visuais do banco de dados, garantindo que o MER (Modelo Entidade-Relacionamento) refletisse a implementação final.</li>
-  </ul>
+    <li>
+      <b>Diagrama Entidade-Relacionamento (DER):</b> Auxiliei no processo de criação e refinamento do DER, assegurando a integridade referencial e a normalização dos dados entre as entidades de alunos, grupos, sprints e critérios de avaliação.
+      <br><br>
+      <details>
+        <summary><i>Clique para ver a imagem</i></summary>
+        <br>
+        <img src="https://raw.githubusercontent.com/TiagoTReis/Portfolio-Projetos/main/assets/2-semestre/merAtualizado.jpeg" alt="Diagrama Entidade Relacionamento" width="100%">
+      </details>
+      <br>
+    </li>
+   </ul>
 </details>
 
 <details>
-  <summary>💻 Desenvolvimento Front-end e Lógica de Negócio (JavaFX)</summary>
+  <summary><strong>💻 Desenvolvimento Front-end (JavaFX)</strong></summary>
   <br>
-  Construção do fluxo principal de interação do sistema, focando na usabilidade e na robustez da coleta de dados:
+
+  No front-end, fui responsável pela construção das interfaces e fluxos principais da aplicação, garantindo usabilidade e interação eficiente para alunos e professores.
   <br><br>
-  <ul>
-    <li><b>Arquitetura de Telas:</b> Implementação do controller <code>HomeControlScreen.java</code> e integração com <code>principalScreen.fxml</code>, estabelecendo a estrutura de navegação base da aplicação.</li>
-    <li><b>Motor de Avaliação:</b> Desenvolvimento da lógica de processamento e envio de avaliações no <code>StudentEvaluator.java</code>, assegurando a persistência correta dos dados.</li>
-    <li><b>Interfaces Administrativas:</b> Criação das telas <code>SetScore.fxml</code> e <code>SetSprintData.fxml</code>, permitindo a parametrização total das métricas e prazos pelos professores.</li>
-  </ul>
+
+  <details>
+    <summary>🏠 Tela Principal (Home)</summary>
+    <br>
+    
+- Implementação da navegação base da aplicação (`HomeControlScreen.java` + `principalScreen.fxml`)
+- Organização do fluxo entre as funcionalidades principais
+
+  </details>
+
+  <br>
+
+  <details>
+    <summary>📝 Telas de Configuração (Professor)</summary>
+    <br>
+
+**Definição de Pontuação**
+- Criação da interface (`SetScore.fxml`)
+- Implementação de botões e interações
+
+<br>
+
+**Definição de Datas de Sprint**
+- Desenvolvimento da tela (`SetSprintData.fxml`)
+
+  </details>
+
+  <br>
+
+  <details>
+    <summary>🎯 Tela de Avaliação</summary>
+    <br>
+
+- Interface para avaliação entre alunos  
+- Integração com ações de envio (botão enviar)
+
+  </details>
+
+  <br>
+
+  <details>
+    <summary>🎨 Ajustes de Interface</summary>
+    <br>
+
+- Adição e organização de botões  
+- Melhorias de layout e usabilidade  
+
+  </details>
+
 </details>
 
-<details>
-  <summary>⚙️ Refatoração e Arquitetura de Modelos (Java)</summary>
-  <br>
-  Trabalhei na modernização da base de código para garantir escalabilidade e manutenibilidade do sistema:
-  <br><br>
-  <ul>
-    <li><b>Padronização de Modelos:</b> Refatoração completa do <code>SprintModel.java</code>, eliminando atributos estáticos e aplicando padrões de nomenclatura internacionais (inglês).</li>
-    <li><b>Interface Reativa:</b> Implementação de <code>JavaFX Properties</code>, permitindo o uso de <i>Data Binding</i> para que a interface gráfica reflita alterações nos modelos em tempo real.</li>
-  </ul>
-</details>
+<br>
 
 <details>
-  <summary>📋 Scrum Master — Gestão e Facilitação</summary>
+  <summary><strong>⚙️ Lógica de Negócio e Back-end (Java)</strong></summary>
   <br>
-  Como facilitador da metodologia ágil, assegurei a cadência e a qualidade das entregas da equipe:
+
+  Atuei na implementação das regras responsáveis pelo processamento das avaliações.
   <br><br>
-  <ul>
-    <li><b>Governança de Código:</b> Revisão técnica e aprovação rigorosa de mais de 10 <i>Pull Requests</i>, mantendo a integridade do repositório.</li>
-    <li><b>Métricas e Documentação:</b> Elaboração de relatórios de Sprint, monitoramento de <i>Burndown Charts</i> e criação de artefatos visuais e manuais em PDF para os stakeholders.</li>
-  </ul>
+
+  <details>
+    <summary>🧠 Motor de Avaliação</summary>
+    <br>
+
+- Desenvolvimento da lógica no `StudentEvaluator.java`  
+- Processamento e envio das avaliações  
+- Garantia de consistência dos dados  
+
+  </details>
+
+  <br>
+
+  <details>
+    <summary>📊 Regras de Pontuação</summary>
+    <br>
+
+- Implementação de limite máximo de pontuação  
+- Aplicação de validações  
+
+  </details>
+
+  <br>
+
+  <details>
+    <summary>🔄 Integração Front-end ↔ Back-end</summary>
+    <br>
+
+- Criação de métodos para ações da interface  
+- Conexão entre telas e regras de negócio  
+
+  </details>
+
+</details>
+
+<br>
+
+<details>
+  <summary><strong>🛠️ Refatoração e Arquitetura</strong></summary>
+  <br>
+
+  Foco na melhoria da qualidade, organização e manutenibilidade do código.
+  <br><br>
+
+  <details>
+    <summary>🔧 Padronização de Modelos</summary>
+    <br>
+
+- Refatoração do `SprintModel.java`  
+- Remoção de atributos estáticos  
+- Padronização de nomenclatura (inglês)  
+
+  </details>
+
+  <br>
+
+  <details>
+    <summary>⚡ Interface Reativa (JavaFX)</summary>
+    <br>
+
+- Uso de JavaFX Properties  
+- Implementação de Data Binding  
+
+  </details>
+
+  <br>
+
+  <details>
+    <summary>🧹 Limpeza de Código</summary>
+    <br>
+
+- Remoção de comentários desnecessários  
+- Organização geral do código  
+
+  </details>
+
+</details>
+
+<br>
+
+<details>
+  <summary><strong>📚 Documentação</strong></summary>
+  <br>
+
+- Atualização do README  
+- Criação de materiais de apoio  
+  - Manual do usuário  
+  - GIFs demonstrando funcionalidades  
+  - MER atualizado  
+
 </details>
 ---
 
