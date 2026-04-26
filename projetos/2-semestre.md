@@ -33,16 +33,15 @@ Foi desenvolvida uma aplicação desktop em **Java** com **JavaFX**, permitindo 
 ---
 
 
-## 🛠 Tecnologias Adotadas
+## 🛠️ Tecnologias Adotadas
 
 | Tecnologia | Descrição |
-|:---|:---|
-| **Java** | Linguagem principal utilizada para toda a lógica de negócio, controllers e modelos da aplicação (Requisito funcional do cliente). |
-| **JavaFX + FXML** | Framework para construção da interface gráfica desktop, utilizando o padrão declarativo para separação entre layout e lógica. |
-| **MySQL** | Banco de dados relacional utilizado para a persistência de dados de alunos, equipes, sprints e avaliações. |
-| **JDBC** | Driver de conexão para execução de queries e operações CRUD diretamente no banco de dados, sem o uso de ORMs. |
-| **Git & GitHub** | Gestão de versionamento com estratégia de branches por feature e revisão rigorosa via Pull Requests. |
-
+| :---: | :--- |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | Linguagem principal utilizada para toda a lógica de negócio, controllers e modelos da aplicação (Requisito funcional do cliente). |
+| ![JavaFX](https://img.shields.io/badge/JavaFX-blue?style=for-the-badge&logo=java&logoColor=white) ![FXML](https://img.shields.io/badge/FXML-gray?style=for-the-badge) | Framework para construção da interface gráfica desktop, utilizando o padrão declarativo para separação entre layout e lógica. |
+| ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) | Banco de dados relacional utilizado para a persistência de dados de alunos, equipes, sprints e avaliações. |
+| ![JDBC](https://img.shields.io/badge/JDBC-red?style=for-the-badge&logo=java&logoColor=white) | Driver de conexão para execução de queries e operações CRUD diretamente no banco de dados, sem o uso de ORMs. |
+| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | Gestão de versionamento com estratégia de branches por feature e revisão rigorosa via Pull Requests. |
 ---
 
 ## 🧩 Metodologia
@@ -56,39 +55,55 @@ O projeto utilizou o framework **Scrum** dividido em 4 Sprints:
 
 ---
 
-## 👨‍💻 Contribuições Individuais
+## 👤 Contribuições Individuais
 
-Atuei com duplo papel: **Scrum Master** (facilitação e gestão) e **Developer** (interfaces e modelos).
-
----
+Atuei com um papel híbrido e estratégico como **Scrum Master** e **Desenvolvedor Full-Stack**, sendo responsável pela governança do projeto e pela implementação de fluxos críticos de interface e lógica de negócio. Minha atuação garantiu a transição entre o planejamento ágil e a entrega técnica de funcionalidades essenciais para o controle de avaliações.
 
 <details>
-<summary><b>🔧 Desenvolvimento Front-end e Lógica de Avaliação</b></summary>
-
-Fui responsável pela construção do fluxo principal do sistema, garantindo a usabilidade para o aluno:
-- Implementação do controller `HomeControlScreen.java` e integração com `principalScreen.fxml`.
-- Desenvolvimento da lógica de envio de avaliações no `StudentEvaluator.java`.
-- Criação de interfaces administrativas como `SetScore.fxml` e `SetSprintData.fxml` para controle do professor.
+  <summary>🗄️ Modelagem e Gestão do Banco de Dados (MySQL)</summary>
+  <br>
+  Participei ativamente da concepção estrutural do projeto, garantindo que a base de dados fosse capaz de suportar as regras de negócio complexas de uma aplicação de gestão acadêmica.
+  <br><br>
+  As principais contribuições foram:
+  <ul>
+    <li><b>Diagrama Entidade-Relacionamento (DER):</b> Auxiliei no processo de criação e refinamento do DER, assegurando a integridade referencial e a normalização dos dados entre as entidades de alunos, grupos, sprints e critérios de avaliação.</li>
+    <li><b>Documentação Visual:</b> Fui responsável pela atualização e manutenção dos artefatos visuais do banco de dados, garantindo que o MER (Modelo Entidade-Relacionamento) refletisse a implementação final.</li>
+  </ul>
 </details>
 
 <details>
-<summary><b>🛠 Refatoração e Arquitetura de Modelos</b></summary>
-
-Trabalhei na melhoria da integridade do código e padronização:
-- Refatoração completa do `SprintModel.java`, removendo atributos estáticos e padronizando variáveis para o inglês.
-- Implementação de **JavaFX Properties** para permitir binding reativo na interface.
-- Limpeza de código legado para garantir a manutenção do sistema.
+  <summary>💻 Desenvolvimento Front-end e Lógica de Negócio (JavaFX)</summary>
+  <br>
+  Construção do fluxo principal de interação do sistema, focando na usabilidade e na robustez da coleta de dados:
+  <br><br>
+  <ul>
+    <li><b>Arquitetura de Telas:</b> Implementação do controller <code>HomeControlScreen.java</code> e integração com <code>principalScreen.fxml</code>, estabelecendo a estrutura de navegação base da aplicação.</li>
+    <li><b>Motor de Avaliação:</b> Desenvolvimento da lógica de processamento e envio de avaliações no <code>StudentEvaluator.java</code>, assegurando a persistência correta dos dados.</li>
+    <li><b>Interfaces Administrativas:</b> Criação das telas <code>SetScore.fxml</code> e <code>SetSprintData.fxml</code>, permitindo a parametrização total das métricas e prazos pelos professores.</li>
+  </ul>
 </details>
 
 <details>
-<summary><b>📋 Scrum Master — Gestão e Documentação</b></summary>
-
-Como facilitador da equipe, assegurei a qualidade das entregas:
-- Revisão e merge de mais de 10 **Pull Requests**.
-- Documentação do README com relatórios de Sprint, **Burndown Charts** e manuais em PDF.
-- Criação de artefatos visuais (GIFs demonstrativos e MER atualizado) para facilitar a compreensão do projeto.
+  <summary>⚙️ Refatoração e Arquitetura de Modelos (Java)</summary>
+  <br>
+  Trabalhei na modernização da base de código para garantir escalabilidade e manutenibilidade do sistema:
+  <br><br>
+  <ul>
+    <li><b>Padronização de Modelos:</b> Refatoração completa do <code>SprintModel.java</code>, eliminando atributos estáticos e aplicando padrões de nomenclatura internacionais (inglês).</li>
+    <li><b>Interface Reativa:</b> Implementação de <code>JavaFX Properties</code>, permitindo o uso de <i>Data Binding</i> para que a interface gráfica reflita alterações nos modelos em tempo real.</li>
+  </ul>
 </details>
 
+<details>
+  <summary>📋 Scrum Master — Gestão e Facilitação</summary>
+  <br>
+  Como facilitador da metodologia ágil, assegurei a cadência e a qualidade das entregas da equipe:
+  <br><br>
+  <ul>
+    <li><b>Governança de Código:</b> Revisão técnica e aprovação rigorosa de mais de 10 <i>Pull Requests</i>, mantendo a integridade do repositório.</li>
+    <li><b>Métricas e Documentação:</b> Elaboração de relatórios de Sprint, monitoramento de <i>Burndown Charts</i> e criação de artefatos visuais e manuais em PDF para os stakeholders.</li>
+  </ul>
+</details>
 ---
 
 ## 📚 Aprendizados Efetivos
