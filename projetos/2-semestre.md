@@ -90,9 +90,17 @@ Atuei com um papel híbrido e estratégico como **Scrum Master** e **Desenvolved
   <details>
     <summary>🏠 Tela Principal (Home)</summary>
     <br>
-    
-- Implementação da navegação base da aplicação (`HomeControlScreen.java` + `principalScreen.fxml`)
-- Organização do fluxo entre as funcionalidades principais
+
+- Implementação da navegação base da aplicação (`HomeControlScreen.java` + `principalScreen.fxml`)  
+- Organização do fluxo entre as funcionalidades principais  
+
+<br>
+
+<details>
+  <summary>📷 Clique para ver a imagem</summary>
+  <br>
+  <img src="https://github.com/TiagoTReis/Portfolio-Projetos/blob/main/assets/2-semestre/Tela-home.png" width="100%"/>
+</details>
 
   </details>
 
@@ -103,24 +111,44 @@ Atuei com um papel híbrido e estratégico como **Scrum Master** e **Desenvolved
     <br>
 
 **Definição de Pontuação**
-- Criação da interface (`SetScore.fxml`)
-- Implementação de botões e interações
+- Criação da tela de configuração de pontuação  
+- Implementação de botões e interações  
+
+<br>
+
+<details>
+  <summary>📷 Clique para ver a imagem</summary>
+  <br>
+  <img src="https://github.com/TiagoTReis/Portfolio-Projetos/blob/main/assets/2-semestre/Tela-definir-pontuacao.png" width="100%"/>
+</details>
 
 <br>
 
 **Definição de Datas de Sprint**
-- Desenvolvimento da tela (`SetSprintData.fxml`)
+- Desenvolvimento completo da interface (`setSprintData.fxml`)  
+- Criação da tela com componentes como DatePicker, ComboBox e TableView  
+- Estruturação do layout utilizando JavaFX  
+
+<br>
+
+<details>
+  <summary>📷 Clique para ver a imagem</summary>
+  <br>
+  <img src="https://github.com/TiagoTReis/Portfolio-Projetos/blob/main/assets/2-semestre/Tela-definir-data-sprint.png" width="100%"/>
+</details>
 
   </details>
 
   <br>
 
   <details>
-    <summary>🎯 Tela de Avaliação</summary>
+    <summary>🎯 Avaliação de Alunos</summary>
     <br>
 
-- Interface para avaliação entre alunos  
-- Integração com ações de envio (botão enviar)
+- Integração do botão "Enviar" com a lógica (`onAction="#enviarNotas"`)  
+- Implementação do processamento no `StudentEvaluator.java`  
+- Manipulação dos dados dos alunos  
+- Ajustes na interface (`student-evaluator.fxml`)  
 
   </details>
 
@@ -186,7 +214,7 @@ Atuei com um papel híbrido e estratégico como **Scrum Master** e **Desenvolved
   <summary><strong>🛠️ Refatoração e Arquitetura</strong></summary>
   <br>
 
-  Foco na melhoria da qualidade, organização e manutenibilidade do código.
+  Foco na melhoria da qualidade e organização do código.
   <br><br>
 
   <details>
