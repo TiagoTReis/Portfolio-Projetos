@@ -154,15 +154,7 @@ Atuei com um papel híbrido e estratégico como **Scrum Master** e **Desenvolved
 
   <br>
 
-  <details>
-    <summary>🎨 Ajustes de Interface</summary>
-    <br>
-
-- Adição e organização de botões  
-- Melhorias de layout e usabilidade  
-
-  </details>
-
+  
 </details>
 
 <br>
