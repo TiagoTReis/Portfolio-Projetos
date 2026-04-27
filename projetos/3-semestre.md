@@ -63,8 +63,9 @@ Contribuí ativamente para a modelagem inicial do banco de dados, padronização
 <br>
 Em conjunto com os demais membros do grupo, definimos a estrutura inicial do banco de dados, incluindo suas tabelas e relacionamentos. O foco foi criar um esquema que atendesse aos fluxos prioritários mapeados, com uma abordagem de visibilidade limitada a longo prazo. Para garantir a coerência e facilitar as alterações, elaboramos um dump do banco que é inicializado junto ao Docker, minimizando assim os conflitos decorrentes de futuras modificações em relacionamentos, tabelas ou na adição de novos componentes.
 
+<br>
 
-![Diagrama de Modelagem](fotos/modelagem.png)
+<img src="https://github.com/TiagoTReis/Portfolio-Projetos/blob/main/assets/3-semestre/modelagem%20.png?raw=true" width="100%"/>
 
 </details>
 
@@ -78,7 +79,9 @@ Contribuí com refatorações pontuais e implementação de DTOs para otimizar, 
 
 Defini e implementei DTOs (Data Transfer Objects) para padronizar a comunicação entre as camadas da aplicação. Com isso, garanti a transferência eficiente de dados, protegi entidades internas evitando exposições desnecessárias, e facilite a manutenção e evolução do sistema. Também otimizei a performance ao enviar apenas as informações necessárias, mantendo contratos claros entre front-end e back-end e permitindo alterações futuras na API sem impactos inesperados.
 
-![Refatoracao de DTO](fotos/refatoracao-de-dto.png)
+<br>
+
+<img src="https://github.com/TiagoTReis/Portfolio-Projetos/blob/main/assets/3-semestre/refatoracao-de-dto.png?raw=true" width="100%"/>
 
   </details>
 
@@ -87,17 +90,22 @@ Defini e implementei DTOs (Data Transfer Objects) para padronizar a comunicaçã
 
 Estabeleci padrões de código consistentes para toda a equipe, garantindo legibilidade, uniformidade e manutenção eficiente do projeto. Essa iniciativa facilitou a colaboração entre desenvolvedores, reduziu a ocorrência de erros, aumentou a qualidade do código e promoveu boas práticas que facilitam a evolução e escalabilidade do sistema.
 
-![padronizacao](fotos/padronizacao.png)
+<br>
+
+<img src="https://github.com/TiagoTReis/Portfolio-Projetos/blob/main/assets/3-semestre/refatoracao-de-dto.png?raw=true" width="100%"/>
+
   </details>
 
 <details>
   <summary>Endpoint para exportações em Larga Escala </summary>
   
-  Atendi a uma solicitação do cliente durante um code review, criando endpoints que permitem a recuperação completa dos dados do banco, ignorando a paginação padrão. Essa implementação facilitou cenários de exportação de relatórios, análise de grandes volumes de informações e integrações com sistemas externos, garantindo eficiência e performance sem comprometer o funcionamento do sistema.
+Atendi a uma solicitação do cliente durante um code review, criando endpoints que permitem a recuperação completa dos dados do banco, ignorando a paginação padrão. Essa implementação facilitou cenários de exportação de relatórios, análise de grandes volumes de informações e integrações com sistemas externos, garantindo eficiência e performance sem comprometer o funcionamento do sistema.
 
-  ![endpoint](fotos/endpoint.png)
-  </details>
+<br>
 
+<img src="https://github.com/TiagoTReis/Portfolio-Projetos/blob/main/assets/3-semestre/endpoint.png?raw=true" width="100%"/>
+
+</details>
 
 </details>
 
