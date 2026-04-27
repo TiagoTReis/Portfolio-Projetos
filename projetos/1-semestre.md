@@ -2,13 +2,15 @@
 
 # 🚀 API 1º Semestre - 01/2024
 
-### 🔗 🎓 Parceiro Acadêmico
+<a href="https://github.com/SQLutions-FATEC/API-1-Semestre" target="_blank">
+  <img src="https://img.shields.io/badge/REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório GitHub">
+</a>
 
-FATEC São José dos Campos - Prof. Jessen Vidal
+### 🎓 Parceiro Acadêmico:
+**FATEC São José dos Campos - Prof. Jessen Vidal**
 
 </div>
 
----
 
 ## 📌 Resumo do Projeto
 
@@ -47,11 +49,6 @@ A aplicação foi construída inicialmente em **VisualG**, como base para aprend
 
 ---
 
-## 🔗 Repositório do Projeto
-
-📎 [Acesse o repositório no GitHub](https://github.com/SQLutions-FATEC/API-1-Semestre)
-
----
 
 ## 🛠 Tecnologias Adotadas
 
