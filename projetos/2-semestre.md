@@ -167,12 +167,12 @@ Atuei com um papel híbrido e estratégico como **Scrum Master** e **Desenvolved
   <br><br>
 
   <details>
-    <summary>🧠 Motor de Avaliação</summary>
+    <summary>🧠 Avaliação de Alunos</summary>
     <br>
 
-- Desenvolvimento da lógica no `StudentEvaluator.java`  
-- Processamento e envio das avaliações  
-- Garantia de consistência dos dados  
+- Implementação do método de envio de avaliações no `StudentEvaluator.java`
+- Manipulação e leitura dos dados dos alunos
+- Integração da lógica com a interface por meio do botão "Enviar"
 
   </details>
 
