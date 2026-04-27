@@ -55,34 +55,50 @@ O projeto foi gerido via **Jira**, utilizando o framework Scrum para organizar a
 
 ## 👨‍💻 Contribuições Individuais
 
-Atuei como **Scrum Master** e **Developer Backend**, focando na arquitetura de dados e padronização do sistema.
-
----
+Durante o desenvolvimento do projeto, atuei principalmente na camada back-end e exerci o papel de Scrum Master, sendo responsável por coordenar as atividades da equipe e garantir a aplicação das metodologias ágeis utilizando o Jira para o acompanhamento das tarefas e sprints.
+Contribuí ativamente para a modelagem inicial do banco de dados, padronização do código e implementação de soluções voltadas à eficiência, segurança e manutenção do sistema. Busquei constantemente melhorar a qualidade técnica do projeto, participando das decisões de arquitetura e promovendo boas práticas de desenvolvimento. Entre minhas entregas, destacam-se as refatorações pontuais, a definição e implementação de DTOs, a criação de endpoints personalizados para exportações em larga escala e o estabelecimento de padrões de código consistentes, garantindo a evolução sustentável e colaborativa do sistema.
 
 <details>
-<summary><b>🗄️ Modelagem de Dados e Infraestrutura Docker</b></summary>
+  <summary>Modelagem inicial do banco de dados</summary>
+<br>
+Em conjunto com os demais membros do grupo, definimos a estrutura inicial do banco de dados, incluindo suas tabelas e relacionamentos. O foco foi criar um esquema que atendesse aos fluxos prioritários mapeados, com uma abordagem de visibilidade limitada a longo prazo. Para garantir a coerência e facilitar as alterações, elaboramos um dump do banco que é inicializado junto ao Docker, minimizando assim os conflitos decorrentes de futuras modificações em relacionamentos, tabelas ou na adição de novos componentes.
 
-Liderei a definição da estrutura inicial do banco de dados e a orquestração do ambiente:
-- Elaboração do esquema de tabelas e relacionamentos para suportar os fluxos prioritários.
-- Criação de scripts SQL (dump) para inicialização automática do banco via Docker, evitando conflitos entre desenvolvedores.
+
+![Diagrama de Modelagem](fotos/modelagem.png)
+
 </details>
 
 <details>
-<summary><b>⚙️ Desenvolvimento Backend e Padronização de Código</b></summary>
+  <summary>Desenvolvimento back-end utilizando SpringBoot</summary>
 
-Implementei soluções voltadas à manutenibilidade e eficiência do sistema:
-- **Implementação de DTOs:** Garanti a segurança e performance ao trafegar apenas os dados necessários entre as camadas.
-- **Padronização de Código:** Estabeleci diretrizes de nomenclatura e arquitetura, reduzindo erros e facilitando a colaboração.
-- **Endpoints de Exportação:** Desenvolvi endpoints personalizados para recuperação de dados em larga escala, atendendo requisitos de relatórios complexos.
-</details>
+Contribuí com refatorações pontuais e implementação de DTOs para otimizar, padronizar e tornar o código mais manutenível. Atendi a solicitações do cliente criando endpoints para recuperação completa de dados, estabeleci padrões de código consistentes e priorizei eficiência, segurança e facilidade de evolução do sistema.
+
+  <details>
+    <summary>Estruturação de dados (DTO)</summary>
+
+Defini e implementei DTOs (Data Transfer Objects) para padronizar a comunicação entre as camadas da aplicação. Com isso, garanti a transferência eficiente de dados, protegi entidades internas evitando exposições desnecessárias, e facilite a manutenção e evolução do sistema. Também otimizei a performance ao enviar apenas as informações necessárias, mantendo contratos claros entre front-end e back-end e permitindo alterações futuras na API sem impactos inesperados.
+
+![Refatoracao de DTO](fotos/refatoracao-de-dto.png)
+
+  </details>
+
+  <details>
+    <summary>Padronização de Código</summary>
+
+Estabeleci padrões de código consistentes para toda a equipe, garantindo legibilidade, uniformidade e manutenção eficiente do projeto. Essa iniciativa facilitou a colaboração entre desenvolvedores, reduziu a ocorrência de erros, aumentou a qualidade do código e promoveu boas práticas que facilitam a evolução e escalabilidade do sistema.
+
+![padronizacao](fotos/padronizacao.png)
+  </details>
 
 <details>
-<summary><b>📋 Scrum Master — Facilitação e Gestão</b></summary>
+  <summary>Endpoint para exportações em Larga Escala </summary>
+  
+  Atendi a uma solicitação do cliente durante um code review, criando endpoints que permitem a recuperação completa dos dados do banco, ignorando a paginação padrão. Essa implementação facilitou cenários de exportação de relatórios, análise de grandes volumes de informações e integrações com sistemas externos, garantindo eficiência e performance sem comprometer o funcionamento do sistema.
 
-Responsável por manter a cadência e a saúde do projeto:
-- Facilitação de Daily Meetings, Reviews e Retrospectives.
-- Gestão de impedimentos junto aos Stakeholders (Altave) e professores da FATEC.
-- Monitoramento da qualidade das entregas através de revisões no GitHub e acompanhamento no Jira.
+  ![endpoint](fotos/endpoint.png)
+  </details>
+
+
 </details>
 
 ---
