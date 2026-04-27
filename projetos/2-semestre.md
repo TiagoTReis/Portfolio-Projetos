@@ -266,7 +266,7 @@ Atuei com um papel híbrido e estratégico como **Scrum Master** e **Desenvolved
 </details>
 
 </details>
----
+
 
 ## 📚 Aprendizados Efetivos
 
