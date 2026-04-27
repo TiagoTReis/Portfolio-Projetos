@@ -246,14 +246,24 @@ Atuei com um papel híbrido e estratégico como **Scrum Master** e **Desenvolved
 <br>
 
 <details>
-  <summary><strong>📚 Documentação</strong></summary>
+  <summary>📚 Documentação</summary>
   <br>
 
 - Atualização do README  
 - Criação de materiais de apoio  
-  - Manual do usuário  
-  - GIFs demonstrando funcionalidades  
-  - MER atualizado  
+- Manual do usuário  
+- GIFs demonstrando funcionalidades  
+- MER atualizado  
+
+<br>
+
+<details>
+  <summary>📷 Clique para ver o manual</summary>
+  <br>
+  <a href="https://github.com/TiagoTReis/Portfolio-Projetos/blob/main/assets/2-semestre/Manual%20do%20usuario.pdf?raw=true" target="_blank">
+    📄 Abrir Manual do Usuário (PDF)
+  </a>
+</details>
 
 </details>
 ---
