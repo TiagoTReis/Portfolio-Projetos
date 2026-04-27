@@ -179,25 +179,25 @@ Atuei com um papel híbrido e estratégico como **Scrum Master** e **Desenvolved
   <br>
 
   <details>
-    <summary>📊 Regras de Pontuação</summary>
-    <br>
+  <summary>📊 Regras de Pontuação</summary>
+  <br>
 
 - Implementação de limite máximo de pontuação  
 - Aplicação de validações  
 
-  </details>
+<br>
+
+<details>
+  <summary>📷 Clique para ver a imagem</summary>
+  <br>
+  <img src="https://github.com/TiagoTReis/Portfolio-Projetos/blob/main/assets/2-semestre/regras-de-pontuacao.png?raw=true" width="100%"/>
+</details>
+
+</details>
 
   <br>
 
-  <details>
-    <summary>🔄 Integração Front-end ↔ Back-end</summary>
-    <br>
-
-- Criação de métodos para ações da interface  
-- Conexão entre telas e regras de negócio  
-
-  </details>
-
+  
 </details>
 
 <br>
