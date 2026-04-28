@@ -100,7 +100,7 @@ Aprendi os perigos do uso excessivo de bibliotecas como Lombok em relacionamento
 
 | Tecnologia/Metodologia | Nota | Classificação | O que me falta |
 | :--- | :--- | :--- | :--- |
-| **Metodologia Ágil Scrum** | ★★★★★ | Sei fazer com autonomia | Implementar métricas de qualidade técnica (Code Coverage) integradas ao Jira. |
+| **Metodologia Ágil Scrum** | ★★★★★ | Sei fazer com autonomia | Ser PO |
 | **Spring Security & JWT** | ★★★★☆ | Sei fazer com ajuda | Explorar autenticação OAuth2 com provedores externos (Google/GitHub). |
 | **Oracle Cloud DB** | ★★★★☆ | Sei fazer com ajuda | Aprofundar em tunning de performance específico para arquitetura Oracle. |
 | **Vue.js 3 & Pinia** | ★★★★☆ | Sei fazer com ajuda | Implementar testes unitários para componentes Vue utilizando Vitest. |
