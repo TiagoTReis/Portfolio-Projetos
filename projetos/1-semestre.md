@@ -54,11 +54,10 @@ A aplicação foi construída inicialmente em **VisualG**, como base para aprend
 
 | Tecnologia | Descrição |
 |:---|:---|
-| **VisualG 3.0** | Ambiente de desenvolvimento em Portugol utilizado para a construção inicial da lógica da calculadora, permitindo o aprendizado de algoritmos e estruturas de controle sem a complexidade de uma linguagem de produção. |
-| **TypeScript** | Linguagem com tipagem estática utilizada para a versão principal do projeto. Escolhida para introduzir boas práticas de desenvolvimento, como tipagem explícita de variáveis e retornos de funções. |
-| **Node.js** | Runtime utilizado para executar a calculadora TypeScript via terminal, com o auxílio da biblioteca `prompt-sync` para captura de entrada do usuário. |
-| **Git & GitHub** | Controle de versionamento e colaboração em equipe. O repositório utilizou commits semânticos (`feat`, `fix`, `refactor`) para rastreabilidade das entregas. |
-
+| ![VisualG](https://img.shields.io/badge/VisualG_3.0-2727ff?style=for-the-badge&logo=codeforces&logoColor=white) | Ambiente de desenvolvimento em Portugol utilizado para a construção inicial da lógica da calculadora, permitindo o aprendizado de algoritmos e estruturas de controle sem a complexidade de uma linguagem de produção. |
+| ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | Linguagem com tipagem estática utilizada para a versão principal do projeto. Escolhida para introduzir boas práticas de desenvolvimento, como tipagem explícita de variáveis e retornos de funções. |
+| ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | Runtime utilizado para executar a calculadora TypeScript via terminal, com o auxílio da biblioteca `prompt-sync` para captura de entrada do usuário. |
+| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | Controle de versionamento e colaboração em equipe. O repositório utilizou commits semânticos (`feat`, `fix`, `refactor`) para rastreabilidade das entregas. |
 ---
 
 ## 🧩 Metodologia
