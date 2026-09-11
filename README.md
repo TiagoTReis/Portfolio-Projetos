@@ -20,8 +20,9 @@ Durante minha trajetória na FATEC, venho desenvolvendo competências técnicas 
 
 ## 📷 Minha Foto
 
-<!-- Substitua o caminho abaixo pela sua imagem -->
-foto
+<div align="center">
+  <img src="assets/Foto%20-%20Tiago.png" alt="Foto de Tiago" width="250">
+</div>
 
 ---
 
