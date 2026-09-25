@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 API 1º Semestre - 01/2024
+#  API 1º Semestre - 01/2024
 
 <a href="https://github.com/SQLutions-FATEC/API-1-Semestre" target="_blank">
   <img src="https://img.shields.io/badge/REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório GitHub">
@@ -12,7 +12,7 @@
 </div>
 
 
-## 📌 Resumo do Projeto
+##  Resumo do Projeto
 
 Desenvolvimento de uma **Calculadora Científica** capaz de realizar operações básicas e complexas, atendendo necessidades contábeis do dia a dia.
 
@@ -35,13 +35,13 @@ O projeto foi implementado em duas frentes tecnológicas:
 
 ---
 
-## ⚠️ Problema
+##  Problema
 
 Havia a necessidade de desenvolver uma ferramenta simples e funcional para realização de **cálculos matemáticos e financeiros**, permitindo maior praticidade no uso e precisão nos resultados.
 
 ---
 
-## 💡 Solução
+##  Solução
 
 Foi desenvolvida uma **calculadora científica interativa**, executada via terminal, com suporte a diferentes operações matemáticas, lógicas e financeiras.
 
@@ -50,7 +50,7 @@ A aplicação foi construída inicialmente em **VisualG**, como base para aprend
 ---
 
 
-## 🛠 Tecnologias Adotadas
+##  Tecnologias Adotadas
 
 | Tecnologia | Descrição |
 |:---|:---|
@@ -60,7 +60,7 @@ A aplicação foi construída inicialmente em **VisualG**, como base para aprend
 | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | Controle de versionamento e colaboração em equipe. O repositório utilizou commits semânticos (`feat`, `fix`, `refactor`) para rastreabilidade das entregas. |
 ---
 
-## 🧩 Metodologia
+##  Metodologia
 
 O projeto adotou princípios da **metodologia ágil Scrum**, adaptados ao contexto acadêmico.
 
@@ -73,14 +73,14 @@ As principais práticas utilizadas foram:
 
 ---
 
-## 👨‍💻 Contribuições Individuais
+##  Contribuições Individuais
 
 Atuei como **Developer**, contribuindo diretamente no código **TypeScript** da calculadora em duas frentes principais:
 
 ---
 
 <details>
-<summary><b>🔤 Desenvolvimento da funcionalidade de Concatenação de Strings</b></summary>
+<summary><b> Desenvolvimento da funcionalidade de Concatenação de Strings</b></summary>
 
 <br>
 
@@ -93,7 +93,7 @@ Essa funcionalidade envolveu:
 - lógica de concatenação e exibição formatada do resultado;
 - integração da função ao menu principal da calculadora.
 
-### 🛠️ Implementação do Código
+###  Implementação do Código
 
 A implementação a seguir detalha a arquitetura da função concatenacaoString(). O foco desta entrega foi garantir a integridade dos dados através de tipos estritos e consolidar uma lógica de interação robusta, servindo como base para a expansão do sistema
 
@@ -124,7 +124,7 @@ Realizei uma refatoração abrangente focada em **boas práticas de tipagem Type
 - `conversaoDeBase.ts` — Conversão de Bases Numéricas
 
 
-### 🛠️ Implementação do Código
+###  Implementação do Código
 Essa refatoração garantiu maior **segurança de tipos** no projeto, reduzindo a possibilidade de erros em tempo de execução e melhorando a legibilidade do código para toda a equipe.
 
 <details>
@@ -143,7 +143,7 @@ Essa refatoração garantiu maior **segurança de tipos** no projeto, reduzindo 
 <br>
 
 <details>
-<summary><b>📊 Elaboração do fluxograma da calculadora científica</b></summary>
+<summary><b> Elaboração do fluxograma da calculadora científica</b></summary>
 
 Também fui responsável pela **modelagem visual do fluxo de funcionamento da calculadora**, por meio da elaboração de um **fluxograma detalhado** da aplicação.
 
@@ -154,7 +154,7 @@ Esse fluxograma foi criado com o objetivo de:
 - facilitar a compreensão da estrutura do programa pela equipe;
 - apoiar o desenvolvimento e a validação das funcionalidades implementadas.
 
-### 🛠️ Implementação do Código
+###  Implementação do Código
 A construção desse material contribuiu para melhorar a **clareza da lógica do sistema**, além de servir como apoio no entendimento do comportamento geral da aplicação.
 
 <details>
@@ -166,7 +166,7 @@ A construção desse material contribuiu para melhorar a **clareza da lógica do
 </details>
 </details>
 
-## 📚 Aprendizados Efetivos
+##  Aprendizados Efetivos
 
 Este projeto representou meu primeiro contato mais estruturado com o desenvolvimento em equipe e com a construção de uma aplicação voltada à resolução de problemas reais por meio da programação.
 
@@ -181,9 +181,9 @@ Além da parte técnica, esse projeto também fortaleceu minha vivência com **t
 
 
 
-## 🧠 Hard Skills
+##  Hard Skills
 
-### 🧠 Hard Skills
+###  Hard Skills
 
 | Tecnologia/Metodologia | Nota | Classificação | O que me falta |
 | :--- | :--- | :--- | :--- |
@@ -193,7 +193,7 @@ Além da parte técnica, esse projeto também fortaleceu minha vivência com **t
 | **Git** | ★★★★★ | Sei fazer com autonomia | Praticar fluxos complexos como Rebase, Stash e resolução de conflitos avançados. |
 ---
 
-## 🤝 Soft Skills
+##  Soft Skills
 
 | Soft Skill | Como desenvolvi neste projeto |
 |:---|:---|
@@ -206,7 +206,7 @@ Além da parte técnica, esse projeto também fortaleceu minha vivência com **t
 
 ---
 
-## 🔎 Navegação entre Projetos
+##  Navegação entre Projetos
 
 - [🚀 1º Semestre: Calculadora Científica](./1-semestre.md)
 - [🧠 2º Semestre: Projeto Avaliador de Soft Skill](./2-semestre.md)
@@ -219,7 +219,7 @@ Além da parte técnica, esse projeto também fortaleceu minha vivência com **t
 
 <div align="center">
 
-### ✨ Desenvolvido durante a graduação em Banco de Dados
+###  Desenvolvido durante a graduação em Banco de Dados
 
 </div>
 
