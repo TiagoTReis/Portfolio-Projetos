@@ -4,7 +4,7 @@ Trabalho de graduação na modalidade **Portfólio** dos projetos realizados uti
 
 ---
 
-## 👤 Autor
+##  Autor
 
 Olá! Sou estudante do curso de **Banco de Dados** da **FATEC São José dos Campos - Prof. Jessen Vidal**, da turma de **2024 - 1º semestre**.
 
