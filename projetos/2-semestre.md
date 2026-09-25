@@ -1,18 +1,18 @@
 <div align="center">
 
-# 🚀 API 2º Semestre - 02/2024
+#  API 2º Semestre - 02/2024
 
 <a href="https://github.com/SQLutions-FATEC/API-2-Semestre" target="_blank">
   <img src="https://img.shields.io/badge/REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório GitHub">
 </a>
 
-### 🎓 Parceiro Acadêmico:
+###  Parceiro Acadêmico:
 **FATEC São José dos Campos - Prof. Jessen Vidal**
 
 </div>
 
 
-## 📌 Resumo do Projeto
+##  Resumo do Projeto
 
 Desenvolvimento de um **Sistema Avaliador de Soft Skills** baseado na metodologia **PACER** (Proatividade, Autonomia, Colaboração e Entrega de Resultados).
 
@@ -20,20 +20,20 @@ A solução resolve o problema de processamento manual de avaliações enfrentad
 
 ---
 
-## ⚠️ Problema
+##  Problema
 
 Os professores recebiam avaliações PACER em formatos heterogêneos e sem padronização. A ausência de cálculo automático de médias por sprint gerava um consumo excessivo de tempo administrativo e dificultava o acompanhamento do desempenho dos alunos.
 
 ---
 
-## 💡 Solução
+##  Solução
 
 Foi desenvolvida uma aplicação desktop em **Java** com **JavaFX**, permitindo que alunos realizem avaliações padronizadas entre membros da equipe. O sistema calcula automaticamente as médias das Sprints e oferece ao professor um painel de controle para gerenciar critérios, prazos e exportar relatórios em formato CSV.
 
 ---
 
 
-## 🛠️ Tecnologias Adotadas
+##  Tecnologias Adotadas
 
 | Tecnologia | Descrição |
 | :---: | :--- |
@@ -44,7 +44,7 @@ Foi desenvolvida uma aplicação desktop em **Java** com **JavaFX**, permitindo 
 | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | Gestão de versionamento com estratégia de branches por feature e revisão rigorosa via Pull Requests. |
 ---
 
-## 🧩 Metodologia
+##  Metodologia
 
 O projeto utilizou o framework **Scrum** dividido em 4 Sprints:
 
@@ -55,7 +55,7 @@ O projeto utilizou o framework **Scrum** dividido em 4 Sprints:
 
 ---
 
-## 👤 Contribuições Individuais
+##  Contribuições Individuais
 
 Atuei com um papel híbrido e estratégico como **Scrum Master** e **Desenvolvedor Full-Stack**, sendo responsável pela governança do projeto e pela implementação de fluxos críticos de interface e lógica de negócio. Minha atuação garantiu a transição entre o planejamento ágil e a entrega técnica de funcionalidades essenciais para o controle de avaliações.
 
@@ -97,7 +97,7 @@ Atuei com um papel híbrido e estratégico como **Scrum Master** e **Desenvolved
 <br>
 
 <details>
-  <summary>📷 Clique para ver a imagem</summary>
+  <summary> Clique para ver a imagem</summary>
   <br>
   <img src="https://github.com/TiagoTReis/Portfolio-Projetos/blob/main/assets/2-semestre/Tela-home.png" width="100%"/>
 </details>
@@ -117,7 +117,7 @@ Atuei com um papel híbrido e estratégico como **Scrum Master** e **Desenvolved
 <br>
 
 <details>
-  <summary>📷 Clique para ver a imagem</summary>
+  <summary> Clique para ver a imagem</summary>
   <br>
   <img src="https://github.com/TiagoTReis/Portfolio-Projetos/blob/main/assets/2-semestre/Tela-definir-pontuacao.png" width="100%"/>
 </details>
@@ -132,7 +132,7 @@ Atuei com um papel híbrido e estratégico como **Scrum Master** e **Desenvolved
 <br>
 
 <details>
-  <summary>📷 Clique para ver a imagem</summary>
+  <summary> Clique para ver a imagem</summary>
   <br>
   <img src="https://github.com/TiagoTReis/Portfolio-Projetos/blob/main/assets/2-semestre/Tela-definir-data-sprint.png" width="100%"/>
 </details>
@@ -142,7 +142,7 @@ Atuei com um papel híbrido e estratégico como **Scrum Master** e **Desenvolved
   <br>
 
   <details>
-    <summary>🎯 Avaliação de Alunos</summary>
+    <summary> Avaliação de Alunos</summary>
     <br>
 
 - Integração do botão "Enviar" com a lógica (`onAction="#enviarNotas"`)  
@@ -160,14 +160,14 @@ Atuei com um papel híbrido e estratégico como **Scrum Master** e **Desenvolved
 <br>
 
 <details>
-  <summary><strong>⚙️ Lógica de Negócio e Back-end (Java)</strong></summary>
+  <summary><strong> Lógica de Negócio e Back-end (Java)</strong></summary>
   <br>
 
   Atuei na implementação das regras responsáveis pelo processamento das avaliações.
   <br><br>
 
   <details>
-    <summary>🧠 Avaliação de Alunos</summary>
+    <summary> Avaliação de Alunos</summary>
     <br>
 
 - Implementação do método de envio de avaliações no `StudentEvaluator.java`
@@ -179,7 +179,7 @@ Atuei com um papel híbrido e estratégico como **Scrum Master** e **Desenvolved
   <br>
 
   <details>
-  <summary>📊 Regras de Pontuação</summary>
+  <summary> Regras de Pontuação</summary>
   <br>
 
 - Implementação de limite máximo de pontuação  
@@ -188,7 +188,7 @@ Atuei com um papel híbrido e estratégico como **Scrum Master** e **Desenvolved
 <br>
 
 <details>
-  <summary>📷 Clique para ver a imagem</summary>
+  <summary> Clique para ver a imagem</summary>
   <br>
   <img src="https://github.com/TiagoTReis/Portfolio-Projetos/blob/main/assets/2-semestre/regras-de-pontuacao.png?raw=true" width="100%"/>
 </details>
@@ -203,14 +203,14 @@ Atuei com um papel híbrido e estratégico como **Scrum Master** e **Desenvolved
 <br>
 
 <details>
-  <summary><strong>🛠️ Refatoração e Arquitetura</strong></summary>
+  <summary><strong> Refatoração e Arquitetura</strong></summary>
   <br>
 
   Foco na melhoria da qualidade e organização do código.
   <br><br>
 
   <details>
-    <summary>🔧 Padronização de Modelos</summary>
+    <summary> Padronização de Modelos</summary>
     <br>
 
 - Refatoração do `SprintModel.java`  
@@ -222,7 +222,7 @@ Atuei com um papel híbrido e estratégico como **Scrum Master** e **Desenvolved
   <br>
 
   <details>
-    <summary>⚡ Interface Reativa (JavaFX)</summary>
+    <summary> Interface Reativa (JavaFX)</summary>
     <br>
 
 - Uso de JavaFX Properties  
@@ -233,7 +233,7 @@ Atuei com um papel híbrido e estratégico como **Scrum Master** e **Desenvolved
   <br>
 
   <details>
-    <summary>🧹 Limpeza de Código</summary>
+    <summary>Limpeza de Código</summary>
     <br>
 
 - Remoção de comentários desnecessários  
@@ -246,7 +246,7 @@ Atuei com um papel híbrido e estratégico como **Scrum Master** e **Desenvolved
 <br>
 
 <details>
-  <summary>📚 Documentação</summary>
+  <summary> Documentação</summary>
   <br>
 
 - Atualização do README  
@@ -258,17 +258,17 @@ Atuei com um papel híbrido e estratégico como **Scrum Master** e **Desenvolved
 <br>
 
 <details>
-  <summary>📷 Clique para ver o manual</summary>
+  <summary> Clique para ver o manual</summary>
   <br>
   <a href="https://github.com/TiagoTReis/Portfolio-Projetos/blob/main/assets/2-semestre/Manual%20do%20usuario.pdf?raw=true" target="_blank">
-    📄 Abrir Manual do Usuário (PDF)
+     Abrir Manual do Usuário (PDF)
   </a>
 </details>
 
 </details>
 
 
-## 📚 Aprendizados Efetivos
+##  Aprendizados Efetivos
 
 Este semestre marcou um salto de complexidade técnica com a introdução do ecossistema Java.
 
@@ -278,7 +278,7 @@ No papel de **Scrum Master**, desenvolvi uma visão sistêmica do projeto, apren
 
 ---
 
-## 🧠 Hard Skills
+##  Hard Skills
 
 | Tecnologia/Metodologia | Nota | Classificação | O que me falta |
 | :--- | :--- | :--- | :--- |
@@ -290,7 +290,7 @@ No papel de **Scrum Master**, desenvolvi uma visão sistêmica do projeto, apren
 
 ---
 
-## 🤝 Soft Skills
+##  Soft Skills
 
 | Soft Skill | Como desenvolvi neste projeto |
 |:---|:---|
@@ -301,19 +301,19 @@ No papel de **Scrum Master**, desenvolvi uma visão sistêmica do projeto, apren
 
 ---
 
-## 🔎 Navegação entre Projetos
+##  Navegação entre Projetos
 
-- [🚀 1º Semestre: Calculadora Científica](./1-semestre.md)
-- [🧠 2º Semestre: Projeto Avaliador de Soft Skill](./2-semestre.md)
-- [📊 3º Semestre: Sistema de Ponto e Geração de Relatórios](./3-semestre.md)
-- [🛡️ 4º Semestre: Monitoramento e Resposta a Incidentes](./4-semestre.md)
-- [📌 5º Semestre: TODO](./5-semestre.md)
-- [📌 6º Semestre: TODO](./6-semestre.md)
+- [ 1º Semestre: Calculadora Científica](./1-semestre.md)
+- [ 2º Semestre: Projeto Avaliador de Soft Skill](./2-semestre.md)
+- [ 3º Semestre: Sistema de Ponto e Geração de Relatórios](./3-semestre.md)
+- [4º Semestre: Monitoramento e Resposta a Incidentes](./4-semestre.md)
+- [ 5º Semestre: TODO](./5-semestre.md)
+- [ 6º Semestre: TODO](./6-semestre.md)
 
 ---
 
 <div align="center">
 
-### ✨ Desenvolvido durante a graduação em Banco de Dados
+###  Desenvolvido durante a graduação em Banco de Dados
 
 </div>
