@@ -1,4 +1,4 @@
-# 📌 Portfólio API's Banco de Dados - Tiago Torres dos Reis
+#  Portfólio API's Banco de Dados - Tiago Torres dos Reis
 
 Trabalho de graduação na modalidade **Portfólio** dos projetos realizados utilizando a metodologia ágil **Scrum** e a **Aprendizagem por Projetos Integrados (API)**, necessário como parte dos requisitos para obtenção do título de **Tecnólogo em Banco de Dados** pela **Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal**.
 
@@ -18,7 +18,7 @@ Durante minha trajetória na FATEC, venho desenvolvendo competências técnicas 
 
 ---
 
-## 📷 Minha Foto
+##  Minha Foto
 
 <div align="center">
   <img src="assets/Foto%20-%20Tiago.png" alt="Foto de Tiago" width="250">
@@ -26,9 +26,9 @@ Durante minha trajetória na FATEC, venho desenvolvendo competências técnicas 
 
 ---
 
-## 🧠 Meus Principais Conhecimentos
+##  Meus Principais Conhecimentos
 
-### 💻 Desenvolvimento
+###  Desenvolvimento
 
 - **Back-end:** Conhecimento prático em desenvolvimento com **Java** e **Spring Boot**, com foco na construção de APIs REST, organização de camadas, DTOs e boas práticas de manutenção de código.
 - **Banco de Dados:** Conhecimento em **modelagem de dados relacionais**, consultas SQL e estruturação de banco de dados com foco em **PostgreSQL** e **MySQL**.
@@ -36,7 +36,7 @@ Durante minha trajetória na FATEC, venho desenvolvendo competências técnicas 
 - **Containerização:** Uso de **Docker** para padronização de ambientes e execução de aplicações em containers.
 - **Desenvolvimento Web:** Conhecimentos em **HTML**, **CSS**, **Python** e integração entre front-end e back-end.
 
-### 📋 Metodologia Ágil (Scrum)
+###  Metodologia Ágil (Scrum)
 
 Durante os projetos acadêmicos, atuei com forte participação em práticas ágeis, especialmente no uso de:
 
@@ -51,7 +51,7 @@ Além disso, também exerci papel de **Scrum Master** em projeto acadêmico, apo
 
 ---
 
-## 📂 Meus Projetos
+##  Meus Projetos
 
 - [1º Semestre: Calculadora Científica](./projetos/1-semestre.md)
 - [2º Semestre: Projeto Avaliador de Soft Skill](./projetos/2-semestre.md)
@@ -62,7 +62,7 @@ Além disso, também exerci papel de **Scrum Master** em projeto acadêmico, apo
 
 ---
 
-## 📬 Contato
+##  Contato
 
 - **GitHub:** [TiagoTReis](https://github.com/TiagoTReis)
 - **LinkedIn:** [Meu Linkedin](https://www.linkedin.com/in/tiago-torres-dos-reis/)
