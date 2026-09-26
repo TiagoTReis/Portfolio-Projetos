@@ -7,7 +7,7 @@
 </a>
 
 ###  Parceiro Acadêmico:
-**FATEC São José dos Campos - Altave**
+**FATEC São José dos Campos - Prefeitura de São José dos Campos**
 
 </div>
 
