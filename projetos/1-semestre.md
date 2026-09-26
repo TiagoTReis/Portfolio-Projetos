@@ -208,12 +208,12 @@ Além da parte técnica, esse projeto também fortaleceu minha vivência com **t
 
 ##  Navegação entre Projetos
 
-- [🚀 1º Semestre: Calculadora Científica](./1-semestre.md)
-- [🧠 2º Semestre: Projeto Avaliador de Soft Skill](./2-semestre.md)
-- [📊 3º Semestre: Sistema de Ponto e Geração de Relatórios](./3-semestre.md)
-- [🛡️ 4º Semestre: Monitoramento e Resposta a Incidentes](./4-semestre.md)
-- [📌 5º Semestre: TODO](./5-semestre.md)
-- [📌 6º Semestre: TODO](./6-semestre.md)
+- [ 1º Semestre: Calculadora Científica](./1-semestre.md)
+- [ 2º Semestre: Projeto Avaliador de Soft Skill](./2-semestre.md)
+- [ 3º Semestre: Sistema de Ponto e Geração de Relatórios](./3-semestre.md)
+- [ 4º Semestre: Monitoramento e Resposta a Incidentes](./4-semestre.md)
+- [ 5º Semestre: TODO](./5-semestre.md)
+- [ 6º Semestre: TODO](./6-semestre.md)
 
 ---
 
