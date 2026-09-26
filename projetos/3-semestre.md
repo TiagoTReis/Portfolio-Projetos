@@ -1,37 +1,37 @@
 <div align="center">
 
-# 🚀 API 3º Semestre - 01/2025
+#  API 3º Semestre - 01/2025
 
 <a href="https://github.com/SQLutions-FATEC/API-3-Semestre" target="_blank">
   <img src="https://img.shields.io/badge/REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório GitHub">
 </a>
 
-### 🎓 Parceiro Acadêmico:
+###  Parceiro Acadêmico:
 **FATEC São José dos Campos - Altave**
 
 </div>
 
 ---
 
-## 📌 Resumo do Projeto
+##  Resumo do Projeto
 
 Desenvolvimento de um **Sistema de Controle de Ponto**, focado no monitoramento de movimentações de funcionários. A aplicação permite o registro de horários, cálculo automático de horas trabalhadas e visualização de dados através de dashboards interativos e relatórios gerenciais.
 
 ---
 
-## ⚠️ Problema
+##  Problema
 
 A empresa parceira (**Altave**) necessitava de uma solução eficiente para monitorar possíveis atrasos de funcionários terceirizados. A falta de um sistema centralizado gerava impactos operacionais e dificultava a análise de produtividade das prestadoras de serviço.
 
 ---
 
-## 💡 Solução
+##  Solução
 
 Criamos uma aplicação web integrada a um banco de dados externo para exibir informações de entrada e saída em tempo real. O sistema conta com filtros avançados, visualização gráfica e geração de relatórios personalizados, facilitando a tomada de decisão estratégica pela gestão.
 
 ---
 
-## 🛠 Tecnologias Adotadas
+##  Tecnologias Adotadas
 
 | Tecnologia | Descrição |
 |:---:|:---|
@@ -43,7 +43,7 @@ Criamos uma aplicação web integrada a um banco de dados externo para exibir in
 
 ---
 
-## 🧩 Metodologia
+##  Metodologia
 
 O projeto foi gerido via **Jira**, utilizando o framework Scrum para organizar as entregas:
 
@@ -53,7 +53,7 @@ O projeto foi gerido via **Jira**, utilizando o framework Scrum para organizar a
 
 ---
 
-## 👨‍💻 Contribuições Individuais
+##  Contribuições Individuais
 
 Durante o desenvolvimento do projeto, atuei principalmente na camada back-end e exerci o papel de Scrum Master, sendo responsável por coordenar as atividades da equipe e garantir a aplicação das metodologias ágeis utilizando o Jira para o acompanhamento das tarefas e sprints.
 Contribuí ativamente para a modelagem inicial do banco de dados, padronização do código e implementação de soluções voltadas à eficiência, segurança e manutenção do sistema. Busquei constantemente melhorar a qualidade técnica do projeto, participando das decisões de arquitetura e promovendo boas práticas de desenvolvimento. Entre minhas entregas, destacam-se as refatorações pontuais, a definição e implementação de DTOs, a criação de endpoints personalizados para exportações em larga escala e o estabelecimento de padrões de código consistentes, garantindo a evolução sustentável e colaborativa do sistema.
@@ -111,7 +111,7 @@ Atendi a uma solicitação do cliente durante um code review, criando endpoints 
 
 ---
 
-## 📚 Aprendizados Efetivos
+##  Aprendizados Efetivos
 
 Este semestre consolidou meus conhecimentos em **arquitetura de sistemas distribuídos**. O uso do **Docker** foi fundamental para entender como garantir que a aplicação funcione da mesma forma em qualquer máquina. 
 
@@ -119,7 +119,7 @@ No desenvolvimento com **Java/Spring Boot**, evoluí na aplicação de padrões 
 
 ---
 
-## 🧠 Hard Skills
+##  Hard Skills
 
 | Tecnologia/Metodologia | Nota | Classificação | O que me falta |
 | :--- | :--- | :--- | :--- |
@@ -131,7 +131,7 @@ No desenvolvimento com **Java/Spring Boot**, evoluí na aplicação de padrões 
 
 ---
 
-## 🤝 Soft Skills
+##  Soft Skills
 
 | Soft Skill | Como desenvolvi neste projeto |
 |:---|:---|
@@ -142,14 +142,14 @@ No desenvolvimento com **Java/Spring Boot**, evoluí na aplicação de padrões 
 
 ---
 
-## 🔎 Navegação entre Projetos
+##  Navegação entre Projetos
 
-- [🚀 1º Semestre: Calculadora Científica](./1-semestre.md)
-- [🧠 2º Semestre: Projeto Avaliador de Soft Skill](./2-semestre.md)
-- [📊 3º Semestre: Sistema de Ponto e Geração de Relatórios](./3-semestre.md)
-- [🛡️ 4º Semestre: Monitoramento e Resposta a Incidentes](./4-semestre.md)
-- [📌 5º Semestre: TODO](./5-semestre.md)
-- [📌 6º Semestre: TODO](./6-semestre.md)
+- [ 1º Semestre: Calculadora Científica](./1-semestre.md)
+- [ 2º Semestre: Projeto Avaliador de Soft Skill](./2-semestre.md)
+- [ 3º Semestre: Sistema de Ponto e Geração de Relatórios](./3-semestre.md)
+- [ 4º Semestre: Monitoramento e Resposta a Incidentes](./4-semestre.md)
+- [ 5º Semestre: TODO](./5-semestre.md)
+- [ 6º Semestre: TODO](./6-semestre.md)
 
 ---
 
