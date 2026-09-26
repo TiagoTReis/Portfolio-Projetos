@@ -1,37 +1,37 @@
 <div align="center">
 
-# 🚀 API 4º Semestre - 02/2025
+#  API 4º Semestre - 02/2025
 
 <a href="https://github.com/DenariusData/API-4SEM" target="_blank">
   <img src="https://img.shields.io/badge/REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório GitHub">
 </a>
 
-### 🎓 Parceiro Acadêmico:
+###  Parceiro Acadêmico:
 **FATEC São José dos Campos - Altave**
 
 </div>
 
 ---
 
-## 📌 Resumo do Projeto
+##  Resumo do Projeto
 
 Desenvolvimento de um **Sistema Inteligente de Monitoramento e Alerta de Tráfego** para a cidade de São José dos Campos. A plataforma transforma dados brutos de radares em insights estratégicos, permitindo a gestão de indicadores de tráfego e a alocação otimizada de agentes de mobilidade.
 
 ---
 
-## ⚠️ Problema
+##  Problema
 
 A ausência de um sistema integrado que centralizasse os dados de radares urbanos. Não havia mecanismos automáticos para disparar alertas baseados em severidade ou ferramentas que facilitassem a designação de agentes para áreas críticas de congestionamento.
 
 ---
 
-## 💡 Solução
+##  Solução
 
 Criamos uma solução que centraliza o controle de trânsito através de um monorepo. O sistema emite **alertas automáticos via Telegram**, possui um **dashboard interativo com mapas (Leaflet)** e permite o cadastro de níveis de severidade. A aplicação suporta 4 perfis de acesso, garantindo que desde o cidadão até o administrador tenham visões pertinentes aos seus cargos.
 
 ---
 
-## 🛠 Tecnologias Adotadas
+##  Tecnologias Adotadas
 
 | Tecnologia | Descrição |
 |:---:|:---|
@@ -44,7 +44,7 @@ Criamos uma solução que centraliza o controle de trânsito através de um mono
 
 ---
 
-## 🧩 Metodologia
+##  Metodologia
 
 O projeto utilizou **Scrum** com foco em entregas incrementais e validação rigorosa via Jira:
 
@@ -54,7 +54,7 @@ O projeto utilizou **Scrum** com foco em entregas incrementais e validação rig
 
 ---
 
-## 👨‍💻 Contribuições Individuais
+##  Contribuições Individuais
 
 Atuei como **Developer Fullstack**, sendo responsável por funcionalidades críticas de ponta a ponta no sistema.
 
@@ -70,7 +70,7 @@ Liderei a estruturação do núcleo da aplicação no backend:
 </details>
 
 <details>
-<summary><b>🎨 Frontend — Gestão de Usuários e Dashboards de Mapas</b></summary>
+<summary><b> Frontend — Gestão de Usuários e Dashboards de Mapas</b></summary>
 
 Fui responsável por módulos centrais da interface do usuário:
 - **Módulo de Pessoas:** CRUD completo com modais dinâmicos, integração com Axios e paginação reutilizável.
@@ -79,7 +79,7 @@ Fui responsável por módulos centrais da interface do usuário:
 </details>
 
 <details>
-<summary><b>🛠️ Hotfixes Críticos e Otimização</b></summary>
+<summary><b> Hotfixes Críticos e Otimização</b></summary>
 
 Atuei na resolução de problemas complexos de produção:
 - **Recursão Infinita:** Correção de erros de StackOverflow causados por bidirecionalidade no JPA/Lombok.
@@ -88,7 +88,7 @@ Atuei na resolução de problemas complexos de produção:
 
 ---
 
-## 📚 Aprendizados Efetivos
+##  Aprendizados Efetivos
 
 Este semestre representou meu maior volume de contribuições técnicas. O uso do **Spring Security com JWT** foi um divisor de águas, ensinando como proteger rotas baseadas em perfis de acesso de forma profissional. 
 
@@ -96,7 +96,7 @@ Aprendi os perigos do uso excessivo de bibliotecas como Lombok em relacionamento
 
 ---
 
-## 🧠 Hard Skills
+##  Hard Skills
 
 | Tecnologia/Metodologia | Nota | Classificação | O que me falta |
 | :--- | :--- | :--- | :--- |
@@ -108,7 +108,7 @@ Aprendi os perigos do uso excessivo de bibliotecas como Lombok em relacionamento
 
 ---
 
-## 🤝 Soft Skills
+##  Soft Skills
 
 | Soft Skill | Como desenvolvi neste projeto |
 |:---|:---|
@@ -119,14 +119,14 @@ Aprendi os perigos do uso excessivo de bibliotecas como Lombok em relacionamento
 
 ---
 
-## 🔎 Navegação entre Projetos
+##  Navegação entre Projetos
 
-- [🚀 1º Semestre: Calculadora Científica](./1-semestre.md)
-- [🧠 2º Semestre: Projeto Avaliador de Soft Skill](./2-semestre.md)
-- [📊 3º Semestre: Sistema de Ponto e Geração de Relatórios](./3-semestre.md)
-- [🛡️ 4º Semestre: Monitoramento e Resposta a Incidentes](./4-semestre.md)
-- [📌 5º Semestre: TODO](./5-semestre.md)
-- [📌 6º Semestre: TODO](./6-semestre.md)
+- [ 1º Semestre: Calculadora Científica](./1-semestre.md)
+- [ 2º Semestre: Projeto Avaliador de Soft Skill](./2-semestre.md)
+- [ 3º Semestre: Sistema de Ponto e Geração de Relatórios](./3-semestre.md)
+- [ 4º Semestre: Monitoramento e Resposta a Incidentes](./4-semestre.md)
+- [ 5º Semestre: TODO](./5-semestre.md)
+- [ 6º Semestre: TODO](./6-semestre.md)
 
 ---
 
