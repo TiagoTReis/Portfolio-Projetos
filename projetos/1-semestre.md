@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório GitHub">
 </a>
 
-### 🎓 Parceiro Acadêmico:
+###  Parceiro Acadêmico:
 **FATEC São José dos Campos - Prof. Jessen Vidal**
 
 </div>
